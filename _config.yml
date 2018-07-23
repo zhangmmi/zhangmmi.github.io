@@ -1,0 +1,45 @@
+exclude: ['README.md']
+timezone: US/Eastern
+papers:
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    img: asian2018
+    title: Muscarinic acetylcholine receptor M1 mediates prostate cancer cell migration and invasion through hedgehog signaling
+    authors: Qing-Qing Yin, Lin-Hui Xu, <span class="color-blue">Mi Zhang</span>, Chen Xu
+    booktitle: Asian Journal of Andrology, 20, 1-7
+    booktitle-url: papers/Muscarinic acetylcholine receptor M1 mediates prostate cancer cell migration and invasion through hedgehog signaling.pdf
+    doc-url: papers/Muscarinic acetylcholine receptor M1 mediates prostate cancer cell migration and invasion through hedgehog signaling.pdf
+    venue: workshop
+    abstract: >
+        The autonomic nervous system contributes to prostate cancer proliferation and metastasis. However, the exact molecular mechanism 
+        remains unclear. In this study, muscarinic acetylcholine receptor M1 (CHRM1) expression was measured via immunohistochemical analysis 
+        in human prostate cancer tissue array slides. PC-3, LNCaP, and A549 cells were treated with pirenzepine or carbachol, and the cell 
+        migration and invasion abilities were evaluated. Western blotting and quantitative real-time PCR were performed to measure GLI family 
+        zinc finger 1 (GLI1), patched 1 (PTCH1), and sonic hedgehog (SHH) expression levels. High expression of CHRM1 was found in early-stage 
+        human prostate cancer tissues. In addition, the selective CHRM1 antagonist pirenzepine inhibited PC-3, LNCaP, and A549 cell migration 
+        and invasion, but the agonist carbachol promoted the migration and invasion of these three cell lines. Muscarinic signaling can be 
+        relayed by hedgehog signaling. These data show that CHRM1 is involved in the regulation of prostate cancer migration and invasion 
+        through the hedgehog signaling pathway.
+  - layout: paper
+    year: 2017
+    paper-type: inproceedings
+    img: zhph2017
+    title: Cognition,attitude towards funeral directors and their influencing factors among occupational populations
+    authors: ZHANG Rui-yuan, LIU Qin, GUO Rui-xi, <span class="color-blue">Mi Zhang</span>, Qinchun Chen
+    booktitle: "Chinese Journal Of Public Health (中国公共卫生), 33(1): 117-121"
+    booktitle-url: papers/Cognition,attitude towards funeral directors and their influencing factors among occupational populations.pdf
+    doc-url: papers/Cognition,attitude towards funeral directors and their influencing factors among occupational populations.pdf
+    venue: workshop
+    abstract: >
+        Objective To examine cognition and attitude towards funeral directors and their relevant factors among people with different occupations. 
+        Methods Purposive sampling method was used and 1 181 people with different occupations from Chongqing municipality and Sichuan, Gansu, 
+        Henan, and Hebei provinces were surveyed with a self-administered questionnaire between July to September 2014. Results Of the participants, 
+        1022 (86.5%) had no contract with funeral directors; 457 (38.7%) did not know funeral directors at all; 615 (52.1%) did not know the 
+        technique difficulty in the work of funeral directors; 420 (35.6%) thought that funeral directors did not have public holidays; 355 (30.1%) 
+        thought that the education background of funeral directors should be in college level at least;and 480 (40.7%) did not know the career 
+        prospect of funeral directors.As for the attitude towards funeral directors and their vocation,926 (78.4%) accepted while 255 (21.6%) 
+        rejected the funeral directors and their vocation.Multivariate logistic regression showed that occupation,residing location,and knowledge 
+        about funeral directors were the main factors influencing the attitude towards funeral directors (all P<0.05).Conclusion Occupational 
+        populations have poor cognition on funeral directors and their work,suggesting specific intervention on this issue should be promoted in the 
+        society.
